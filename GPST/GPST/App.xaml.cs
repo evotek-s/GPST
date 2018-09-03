@@ -7,6 +7,14 @@ namespace GPST
 {
     public partial class App : Application
     {
+        public static int ScreenHeight { get; set; }
+
+        public static int ScreenWidth { get; set; }
+
+        public static float CurrentLatitude { get; set; }
+
+        public static float CurrentLongitude { get; set; }
+
         public App()
         {
             InitializeComponent();

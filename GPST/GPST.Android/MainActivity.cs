@@ -6,6 +6,9 @@ using Android.Runtime;
 using Android.Views;
 using Android.Widget;
 using Android.OS;
+using Android;
+using Android.Support.V4.Content;
+using Android.Locations;
 
 namespace GPST.Droid
 {
@@ -14,12 +17,18 @@ namespace GPST.Droid
     {
         protected override void OnCreate(Bundle savedInstanceState)
         {
+            App.ScreenHeight = (int)(Resources.DisplayMetrics.HeightPixels / Resources.DisplayMetrics.Density);
+            App.ScreenWidth = (int)(Resources.DisplayMetrics.WidthPixels / Resources.DisplayMetrics.Density);
+
             TabLayoutResource = Resource.Layout.Tabbar;
             ToolbarResource = Resource.Layout.Toolbar;
 
             base.OnCreate(savedInstanceState);
+            Xamarin.FormsMaps.Init(this, savedInstanceState);
             global::Xamarin.Forms.Forms.Init(this, savedInstanceState);
             LoadApplication(new App());
         }
+
+        
     }
 }
