@@ -9,4 +9,8 @@ G:\Res-Avail DLL C# Framework\RAMobileProduct\GPST\GPST\GPST\GPST\obj\Debug\nets
 G:\Res-Avail DLL C# Framework\RAMobileProduct\GPST\GPST\GPST\GPST\obj\Debug\netstandard2.0\GPST.AssemblyInfo.cs
 G:\Res-Avail DLL C# Framework\RAMobileProduct\GPST\GPST\GPST\GPST\obj\Debug\netstandard2.0\GPST.dll
 G:\Res-Avail DLL C# Framework\RAMobileProduct\GPST\GPST\GPST\GPST\obj\Debug\netstandard2.0\GPST.pdb
+G:\Res-Avail DLL C# Framework\RAMobileProduct\GPST\GPST\GPST\GPST\bin\Debug\netstandard2.0\Mono.Android.dll
+G:\Res-Avail DLL C# Framework\RAMobileProduct\GPST\GPST\GPST\GPST\bin\Debug\netstandard2.0\Mono.Android.pdb
+G:\Res-Avail DLL C# Framework\RAMobileProduct\GPST\GPST\GPST\GPST\bin\Debug\netstandard2.0\Mono.Android.xml
+G:\Res-Avail DLL C# Framework\RAMobileProduct\GPST\GPST\GPST\GPST\obj\Debug\netstandard2.0\GPST.csproj.CopyComplete
 G:\Res-Avail DLL C# Framework\RAMobileProduct\GPST\GPST\GPST\GPST\obj\Debug\netstandard2.0\XamlC.stamp

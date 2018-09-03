@@ -9,6 +9,7 @@
     <description>Package Description</description>
     <dependencies>
       <group targetFramework=".NETStandard2.0">
+        <dependency id="Xam.Plugin.Geolocator" version="4.5.0.6" exclude="Build,Analyzers" />
         <dependency id="Xamarin.Forms" version="3.2.0.729530-pre2" exclude="Build,Analyzers" />
         <dependency id="Xamarin.Forms.GoogleMaps" version="3.0.1" exclude="Build,Analyzers" />
         <dependency id="Xamarin.Forms.Maps" version="3.2.0.729530-pre2" exclude="Build,Analyzers" />

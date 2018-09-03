@@ -11,9 +11,9 @@ namespace GPST
 
         public static int ScreenWidth { get; set; }
 
-        public static float CurrentLatitude { get; set; }
+        public static double CurrentLatitude { get; set; }
 
-        public static float CurrentLongitude { get; set; }
+        public static double CurrentLongitude { get; set; }
 
         public App()
         {
@@ -36,5 +36,7 @@ namespace GPST
         {
             // Handle when your app resumes
         }
+
+        
     }
 }

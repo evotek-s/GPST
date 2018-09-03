@@ -4,6 +4,9 @@ G:\Res-Avail DLL C# Framework\RAMobileProduct\GPST\GPST\GPST\GPST.Android\obj\De
 G:\Res-Avail DLL C# Framework\RAMobileProduct\GPST\GPST\GPST\GPST.Android\obj\Debug\MonoAndroid81\android\assets\Java.Interop.dll
 G:\Res-Avail DLL C# Framework\RAMobileProduct\GPST\GPST\GPST\GPST.Android\obj\Debug\MonoAndroid81\android\assets\Mono.Android.dll
 G:\Res-Avail DLL C# Framework\RAMobileProduct\GPST\GPST\GPST\GPST.Android\obj\Debug\MonoAndroid81\android\assets\mscorlib.dll
+G:\Res-Avail DLL C# Framework\RAMobileProduct\GPST\GPST\GPST\GPST.Android\obj\Debug\MonoAndroid81\android\assets\Plugin.CurrentActivity.dll
+G:\Res-Avail DLL C# Framework\RAMobileProduct\GPST\GPST\GPST\GPST.Android\obj\Debug\MonoAndroid81\android\assets\Plugin.Geolocator.dll
+G:\Res-Avail DLL C# Framework\RAMobileProduct\GPST\GPST\GPST\GPST.Android\obj\Debug\MonoAndroid81\android\assets\Plugin.Permissions.dll
 G:\Res-Avail DLL C# Framework\RAMobileProduct\GPST\GPST\GPST\GPST.Android\obj\Debug\MonoAndroid81\android\assets\System.Core.dll
 G:\Res-Avail DLL C# Framework\RAMobileProduct\GPST\GPST\GPST\GPST.Android\obj\Debug\MonoAndroid81\android\assets\System.dll
 G:\Res-Avail DLL C# Framework\RAMobileProduct\GPST\GPST\GPST\GPST.Android\obj\Debug\MonoAndroid81\android\assets\System.Xml.dll

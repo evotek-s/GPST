@@ -5,7 +5,7 @@
              x:Class="GPST.MainPage">
 
     <StackLayout VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" Padding="1">
-        <maps:Map WidthRequest="1000" HeightRequest="1000" x:Name="MyMap" IsShowingUser="true"  MapType="Street"  />
+        <maps:Map WidthRequest="1000" HeightRequest="1000" x:Name="MyMap" IsShowingUser="True"  MapType="Street"  />
     </StackLayout>
 
 

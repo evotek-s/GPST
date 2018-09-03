@@ -1,5 +1,8 @@
 FormsViewGroup
 GPST
+Plugin.CurrentActivity
+Plugin.Geolocator
+Plugin.Permissions
 System.Runtime
 Xamarin.Android.Arch.Core.Common
 Xamarin.Android.Arch.Lifecycle.Common
